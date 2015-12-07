@@ -1,0 +1,274 @@
+	
+	/*GENERAL STYLES*/
+
+	body{
+		font-family: 'Raleway', sans-serif;
+		font-weight: 400;
+		font-size: 1em;
+		color: #303032;
+		padding: 0;
+		background: url(images/interior.jpg) no-repeat center center fixed;
+		background-size:cover;
+	}
+
+	a {
+		color:#725256;	
+	}
+
+	li:visited{
+		color:#988C73;
+	}
+
+	nav li:hover{
+		color:#036564;
+	}
+
+	.column li:hover{
+		cursor: default;
+	}
+
+	#selected{
+		text-decoration: underline;
+	}
+
+	h3{
+		color:#036564;	
+	}
+
+	h2{
+		text-align: center;
+	}
+
+	/*HEADER STYLES*/
+
+	header {
+		position: fixed;
+		top: 0;
+		left: 0;
+		background: #fff;
+		opacity:1;
+		height: 70px;
+		width:100%;
+		z-index: 40;
+		box-shadow: 3px 3px 3px #aaaaaa;
+	}
+
+	header ul {
+		padding-left: 0;
+	}
+
+	#logo{
+		font-family: 'Pacifico', cursive;
+		display: inline-block;
+		margin-top: -5px;
+		padding-left:20px;
+		float:left;
+		color:#036564;
+		font-size: 2.2em;
+	}
+
+	#logo a{
+		cursor: hand;
+	}
+
+	.nav1{
+		float:right;
+		text-align: center;
+	}
+
+
+	.nav1 li, .nav2 li{
+		float:left;
+		text-align: center;
+		max-width:300px;
+		padding:5px 20px 5px 20px;
+		list-style-type: none;
+		/*margin-right: 70px;*/
+		top:25px;
+	}
+
+	nav{
+		width: 95%;
+		margin: auto;
+		margin-left: 0%;
+		height:100%;
+		text-align: center;
+	}
+
+/* ADMIN: EDIT MENU */
+
+/*section {
+	margin-left:auto;
+	margin-right:auto;
+	width:70%;
+	background-color: rgba(255,255,255, .9);
+	padding-top:100px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:30px;
+	height:100vmax;
+}*/
+
+#login{
+	margin:auto;
+	margin-top:110px;
+	padding:30px;
+	background:#ffffff;
+	max-width:350px;
+	box-shadow:3px 3px 3px #777777;
+}
+
+#menu-list{
+	margin:auto;
+	margin-top:110px;
+	background:#ffffff;
+	max-width:700px;
+	box-shadow:3px 3px 3px #777777;	
+	text-align:center;
+	height:100vmax;
+	overflow:auto;
+}
+
+#edit-dish{
+	margin:auto;
+	margin-top:110px;
+	background:#ffffff;
+	max-width:600px;
+	box-shadow:3px 3px 3px #777777;	
+	text-align:center;
+	padding-bottom:30px;
+	padding-top:10px;	
+}
+
+#edit-dish h2{
+	margin-bottom:10px;
+}
+
+#edit-dish h4{
+	margin-top:0;
+}
+
+div{
+	width:100%;
+}
+
+#column{
+	max-width:600px;
+}
+
+.item{
+	margin-bottom:12px;
+	list-style-type: none;
+}
+
+#column li{
+	list-style-type: none;
+	width:230px;
+	display: inline-block;
+	height:90px;
+	margin-left:10px;
+	background:rgba(100,100,230,.1);
+	padding:10px;
+
+}
+
+.name {
+	float:left;
+	display:block;
+	clear:both;
+	font-weight: bold;
+	color:#036564;
+	text-align:left;
+}
+
+.category{
+	float:left;
+	clear:both;
+
+}
+.edit{
+	margin-top:10px;
+	clear:both;
+	float:left;
+}
+
+select{
+   background: transparent;
+   width: 268px;
+   padding: 5px;
+   font-size: 16px;
+   height: 34px;
+   color:#777;
+}
+
+/*EDIT DISH FORM*/
+
+form{
+	width:50%;
+	margin:auto;
+}
+
+form p{
+	clear:both;
+	width:100%;
+	text-align: left;
+}
+
+form p:last-child{
+	text-align:center;
+}
+
+input{
+	text-align: left;
+	padding-left:10px;
+	font-size: .8em;
+	color:#777;
+	border:2px solid #ddd;
+}
+
+input[name='name']{
+	width:100%;
+	height:25px;
+}
+
+
+input[name='price']{
+	width:30%;
+	height:25px;
+}
+
+input[name='submit']{
+	width:60%;
+	padding-top:10px;
+	padding-bottom:10px;
+	background:#719F08;
+	color:#fff;
+	border:none;
+	text-align:center;	
+}
+
+label[for='category']{
+	clear:both;
+}
+
+textarea{
+	width:100%;
+	min-height:60px;
+	font-size: .8em;
+	color:#777;
+	text-align: left;
+	border:2px solid #ddd;	
+	padding-left:10px;
+}
+
+.notification{
+	padding: 20px;
+	background-color: #94BE46;
+	margin: auto;
+	text-align: center;
+	width:30%;
+}
+
+.clear {
+	clear:both;
+}

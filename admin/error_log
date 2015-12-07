@@ -1,0 +1,58 @@
+[21-Oct-2015 15:37:47 America/New_York] PHP Warning:  require(dbconnect.php): failed to open stream: No such file or directory in /home/nerdiieq/public_html/mod5/admin/add_dish.php on line 3
+[21-Oct-2015 15:37:47 America/New_York] PHP Warning:  require(dbconnect.php): failed to open stream: No such file or directory in /home/nerdiieq/public_html/mod5/admin/add_dish.php on line 3
+[21-Oct-2015 15:37:47 America/New_York] PHP Fatal error:  require(): Failed opening required 'dbconnect.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nerdiieq/public_html/mod5/admin/add_dish.php on line 3
+[21-Oct-2015 15:44:06 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/nerdiieq/public_html/mod5/admin/add_dish.php on line 15
+[21-Oct-2015 16:20:27 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/nerdiieq/public_html/mod5/admin/add_dish.php on line 30
+[21-Oct-2015 16:38:00 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/nerdiieq/public_html/mod5/admin/add_dish_form.php on line 33
+[21-Oct-2015 17:02:11 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 13
+[21-Oct-2015 17:04:05 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 17
+[21-Oct-2015 17:04:41 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 17
+[21-Oct-2015 17:04:45 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 17
+[21-Oct-2015 17:05:12 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 8
+[21-Oct-2015 17:06:09 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 8
+[21-Oct-2015 17:07:00 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 8
+[21-Oct-2015 17:07:05 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 8
+[21-Oct-2015 17:35:37 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/nerdiieq/public_html/mod5/admin/delete_dish.php on line 3
+[21-Oct-2015 17:36:20 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/nerdiieq/public_html/mod5/admin/delete_dish.php on line 23
+[21-Oct-2015 17:39:45 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/nerdiieq/public_html/mod5/admin/delete_dish.php on line 22
+[21-Oct-2015 17:40:51 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/nerdiieq/public_html/mod5/admin/delete_dish.php on line 21
+[21-Oct-2015 17:40:56 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/nerdiieq/public_html/mod5/admin/delete_dish.php on line 21
+[21-Oct-2015 17:41:25 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/nerdiieq/public_html/mod5/admin/delete_dish.php on line 21
+[21-Oct-2015 17:42:19 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/nerdiieq/public_html/mod5/admin/delete_dish.php on line 15
+[21-Oct-2015 18:44:49 America/New_York] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/nerdiieq/public_html/mod5/admin/edit_dish.php on line 23
+[21-Oct-2015 18:45:28 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/nerdiieq/public_html/mod5/admin/edit_dish.php on line 65
+[21-Oct-2015 18:46:24 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/nerdiieq/public_html/mod5/admin/edit_dish.php on line 65
+[21-Oct-2015 18:46:45 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/nerdiieq/public_html/mod5/admin/edit_dish.php on line 65
+[21-Oct-2015 18:47:15 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/nerdiieq/public_html/mod5/admin/edit_dish.php on line 78
+[21-Oct-2015 19:00:39 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/nerdiieq/public_html/mod5/admin/edit_dish.php on line 60
+[21-Oct-2015 19:01:59 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/nerdiieq/public_html/mod5/admin/edit_dish.php on line 60
+[21-Oct-2015 19:12:33 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/nerdiieq/public_html/mod5/admin/edit_dish.php on line 83
+[21-Oct-2015 19:14:09 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/nerdiieq/public_html/mod5/admin/edit_dish.php on line 83
+[21-Oct-2015 19:14:44 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/nerdiieq/public_html/mod5/admin/edit_dish.php on line 83
+[21-Oct-2015 19:17:28 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/nerdiieq/public_html/mod5/admin/edit_dish.php on line 83
+[21-Oct-2015 19:23:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/nerdiieq/public_html/mod5/admin/edit_dish.php on line 83
+[22-Oct-2015 00:28:59 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 28
+[22-Oct-2015 00:30:19 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 22
+[22-Oct-2015 00:35:47 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 40
+[22-Oct-2015 00:36:58 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 38
+[22-Oct-2015 00:58:18 America/New_York] PHP Warning:  mysql_fetch_field() expects parameter 1 to be resource, array given in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 22
+[22-Oct-2015 00:58:26 America/New_York] PHP Warning:  mysql_fetch_field() expects parameter 1 to be resource, array given in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 22
+[22-Oct-2015 00:58:32 America/New_York] PHP Warning:  mysql_fetch_field() expects parameter 1 to be resource, array given in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 22
+[22-Oct-2015 01:00:43 America/New_York] PHP Warning:  mysql_fetch_field() expects parameter 1 to be resource, array given in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 22
+[22-Oct-2015 01:00:47 America/New_York] PHP Warning:  mysql_fetch_field() expects parameter 1 to be resource, array given in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 22
+[22-Oct-2015 15:05:13 America/New_York] PHP Warning:  mysql_fetch_field() expects parameter 1 to be resource, array given in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 22
+[22-Oct-2015 20:07:06 America/New_York] PHP Warning:  mysql_fetch_field() expects parameter 1 to be resource, array given in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 22
+[22-Oct-2015 20:25:04 America/New_York] PHP Warning:  mysql_fetch_field() expects parameter 1 to be resource, array given in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 22
+[22-Oct-2015 21:38:53 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 24
+[22-Oct-2015 21:40:07 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 24
+[22-Oct-2015 21:40:18 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 24
+[22-Oct-2015 21:40:30 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 24
+[22-Oct-2015 21:40:33 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 24
+[22-Oct-2015 21:42:18 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 24
+[22-Oct-2015 21:43:33 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 25
+[22-Oct-2015 21:47:25 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 24
+[22-Oct-2015 21:50:21 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 24
+[22-Oct-2015 21:52:57 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 24
+[22-Oct-2015 21:54:12 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 24
+[22-Oct-2015 21:54:15 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/nerdiieq/public_html/mod5/admin/edit_menu.php on line 24
+[29-Oct-2015 21:11:07 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/nerdiieq/public_html/mod5/admin/add_dish.php on line 6
